@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b361b47d-72e6-47d1-a895-865e21999e1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CW38_CoffeeOrderSprint2/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_26_CSS_Additional/index_grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_26_CSS_Additional/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_26_JS_Intro/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_26_JS_Intro/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_32_OOP_ES6/Person.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_32_OOP_ES6/tools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_32_Practice_OOP/humanity/Employee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_32_Practice_OOP/humanity/Human.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_32_Practice_OOP/humanity/Humanity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_32_Practice_OOP/humanity/Person.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_32_Practice_OOP/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_32_Practice_OOP/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_33_JS_Additional/collections.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_33_JS_Additional/destruction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_34_Events/script1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_34_Practice/script1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_35_Attr_JQuery/JQuery_intro/index_skills.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_35_Attr_JQuery/JQuery_intro/skills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_35_Attr_JQuery/JQuery_intro/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_35_Attr_JQuery/Try_Catch/try_catch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_36_Context_Clousure/context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_37_CoffeeOrderSprint1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_37_CoffeeOrderSprint1/service/Orders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_39_Assinc/assinc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_39_Assinc/displayUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_39_Assinc/promise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_39_Assinc/sleep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_42_React_Intro/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_42_React_Intro/jsx.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_42_React_Intro/students.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_44_Weather/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_44_Weather/src/components/Data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_44_Weather/src/components/Display.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_44_Weather/src/components/Form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_44_Weather/src/components/FormControl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_44_Weather/src/components/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_44_Weather/src/images/night.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_44_Weather/src/images/polygon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_44_Weather/src/utils/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_Blocks/src/components/Block.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/components/FarGalaxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/components/Friend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/components/Friends.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/components/Hero.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/components/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/components/NavItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/components/Navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/components/footer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/images/friend1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/images/friend2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/images/friend3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/images/friend4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/images/friend5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/images/friend6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/images/friend7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/images/friend8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/images/friend9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/images/main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/images/sky.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_45_StarWarsReact_v3/src/utils/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_46_ComponentLifeCycle/src/MyComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_46_ComponentLifeCycle/src/MyComponentClass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_47_tic_tac_toa/src/components/Board.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CW_47_tic_tac_toa/src/components/Cell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Car_catalog/public/1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Car_catalog/src/components/Router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Car_catalog/src/components/screens/home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Car_catalog/src/components/screens/home/Home.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Car_catalog/src/components/screens/home/car-item/CarItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Car_catalog/src/components/screens/home/cars.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Car_catalog/src/components/screens/home/create-car-form/CreateCarForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Car_catalog/src/components/screens/home/create-car-form/CreateCarForm.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Car_catalog/src/services/car.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_29_JS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_29_JS/script1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_29_JS/script2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_29_JS/script3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_29_JS/script4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_30_check/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_32_Classes/Chocolate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_32_Classes/Milk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_32_Classes/Product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_32_Classes/Store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_32_Classes/Wine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_32_Classes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_34_DOM_Events/img/gallery_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_34_DOM_Events/img/gallery_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_34_DOM_Events/img/gallery_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_34_DOM_Events/img/gallery_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_34_DOM_Events/img/gallery_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_34_DOM_Events/img/gallery_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_34_DOM_Events/img/gallery_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_34_DOM_Events/img/gallery_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_40_CurrencyConverter/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_47_Card_Game/src/components/Game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_47_Card_Game/src/components/Result.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_47_Card_Game/src/components/Start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_47_Card_Game/src/utils/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_9_JSIntro/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_9_JSIntro/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/public/img/armchair.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/public/img/bed.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/public/img/chair.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/public/img/hanger.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/public/img/sofa.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/public/img/table.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/src/animation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/src/components/AboutUs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/src/components/Categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/src/components/Item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/src/components/Items.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/src/components/Order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/src/components/ShowFullItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/src/img/general photo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/src/imgAnimation/AnimationLogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/src/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/script_array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/script_string.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/script_task_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/script_task_5.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2Zo3Yg7LA5qw69zHwfVmnfM6T1f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/dimagolev/WebstormProjects/Sneakers-shop/public/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "/Users/dimagolev/WebstormProjects/Sneakers-shop/node_modules/react-scripts",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "watcher.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+        <entry key="com.haulmont.rcb.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\konsp\Desktop\TelRan Groups\MASA Haifa-2023\MASA-WEB\template\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="renders learn react link" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/App.test.js" />
+      <test-names>
+        <test-name value="renders learn react link" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.renders learn react link" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b361b47d-72e6-47d1-a895-865e21999e1f" name="Changes" comment="" />
+      <created>1703074653760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703074653760</updated>
+      <workItem from="1703074654829" duration="2383000" />
+      <workItem from="1704504659353" duration="928000" />
+      <workItem from="1704505800933" duration="53000" />
+      <workItem from="1704506118498" duration="3332000" />
+      <workItem from="1704598368412" duration="598000" />
+      <workItem from="1704612053385" duration="641000" />
+      <workItem from="1704739008741" duration="14695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
